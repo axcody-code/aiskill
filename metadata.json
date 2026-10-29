@@ -1,0 +1,6 @@
+{
+  "name": "7대 AI 역량 진단 및 전사 임직원 현황 플랫폼",
+  "description": "임직원 7대 AI 핵심 스킬 평가(21개 세부항목, 5단계 그레이드), 레이더 차트 시각화, 전사 현황 대시보드, 발전방향, 연간 교육일정 및 상급자 코멘트 시스템",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
